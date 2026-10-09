@@ -29,7 +29,7 @@ Key Highlights
 
  ##Dashboard Preview
 
-![SolarPulse Dashboard](solarpulse-dashboard.png)
+![SolarPulse Dashboard](dashboard.png.png)
 
 Repository Contents
 
