@@ -27,7 +27,7 @@ Key Highlights
 - A dashboard-oriented approach to renewable energy monitoring.
 - Focus on sustainability and informed decision-making.
 
- ## Dashboard Preview
+ ##Dashboard Preview
 
 ![SolarPulse Dashboard](solarpulse-dashboard.png)
 
